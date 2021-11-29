@@ -70,5 +70,5 @@ git push origin test_branch      # forkしたリポジトリへ変更を登録
 [【GitHub】Pull Requestの手順](https://qiita.com/aipacommander/items/d61d21988a36a4d0e58b)<br>
 
 ## 以下、テスト用
-Hello Github!! <br>
+Hello GitHub!! <br>
 
