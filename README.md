@@ -68,7 +68,7 @@ git push origin test_branch      # forkしたリポジトリへ変更を登録
 [フォークからプルリクエストを作成する](https://docs.github.com/ja/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)<br>
 [[実践] はじめてのPull Requestをやってみよう](https://qiita.com/wataryooou/items/8dce6b6d5f54ab2cef04)<br>
 [【GitHub】Pull Requestの手順](https://qiita.com/aipacommander/items/d61d21988a36a4d0e58b)<br>
+[【超入門】初心者のためのGitとGitHubの使い方] (https://tech-blog.rakus.co.jp/entry/20200529/git#1-Git%E3%81%A8GitHub%E3%81%AE%E8%B6%85%E5%9F%BA%E6%9C%AC%E7%9A%84%E3%81%AA%E4%BD%BF%E3%81%84%E6%96%B9) <br>
 
 ## 以下、テスト用
-Hello GitHub!! <br>
-
+ntwas Neues <br>
